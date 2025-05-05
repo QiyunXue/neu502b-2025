@@ -1,2 +1,6 @@
 .ipynb_checkpoints
-neu502b-2025/fmri-6/sub-284_task-black_space-MNI152NLin2009cAsym_res-native_desc-clean_bold.nii.gz
+fmri-6/sub-284_task-black_space-MNI152NLin2009cAsym_res-native_desc-clean_bold.nii.gz
+nilearn-data/
+anns-1/data/
+**/.DS_Store
+mne_opm/
